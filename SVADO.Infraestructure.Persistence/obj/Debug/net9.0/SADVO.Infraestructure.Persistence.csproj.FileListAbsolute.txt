@@ -1,0 +1,17 @@
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVO.Infraestructure.Persistence.deps.json
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVO.Infraestructure.Persistence.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVO.Infraestructure.Persistence.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVOApp.Core.Application.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVOApp.Core.Domain.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVOApp.Core.Application.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\bin\Debug\net9.0\SADVOApp.Core.Domain.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.AssemblyInfo.cs
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.In.19E65272.Up2Date
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\refint\SADVO.Infraestructure.Persistence.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\SADVO.Infraestructure.Persistence.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SVADO.Infraestructure.Persistence\obj\Debug\net9.0\ref\SADVO.Infraestructure.Persistence.dll

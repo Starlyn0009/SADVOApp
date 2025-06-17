@@ -1,0 +1,18 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace SADVOApp.Core.Application.Dtos.PuestoElectivoDto
+{
+    public class UpdatePuestoElectivoDto 
+    {
+
+        public  int Id { get; set; }         
+
+        [Required]                                     
+        [MaxLength(200)]
+        public required string Nombre { get; set; }
+
+        [Required]
+        [MaxLength(500)]
+        public required string Descripcion { get; set; }
+    }    
+}

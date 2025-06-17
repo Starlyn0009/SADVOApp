@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|c:\\users\\starlyn\\desktop\\proyecto ventas\\sadvo\\savdo.core.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|solutionrelative:savdo.core.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|c:\\users\\starlyn\\desktop\\proyecto ventas\\sadvo\\savdo.core.application\\mappings\\entitiesanddtos\\ciudadanomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|solutionrelative:savdo.core.application\\mappings\\entitiesanddtos\\ciudadanomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|c:\\users\\starlyn\\desktop\\proyecto ventas\\sadvo\\savdo.core.application\\dtos\\ciudadanodto\\ciudadanodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2AC5BF-0A1B-411F-8FE5-18F8E6E19084}|SAVDO.Core.Application\\SADVOApp.Core.Application.csproj|solutionrelative:savdo.core.application\\dtos\\ciudadanodto\\ciudadanodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D3B87-F1BD-4275-9E84-37E0915FB8C8}|SAVDO.Core.Domain\\SADVOApp.Core.Domain.csproj|c:\\users\\starlyn\\desktop\\proyecto ventas\\sadvo\\savdo.core.domain\\entities\\ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D3B87-F1BD-4275-9E84-37E0915FB8C8}|SAVDO.Core.Domain\\SADVOApp.Core.Domain.csproj|solutionrelative:savdo.core.domain\\entities\\ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "SAVDO.Core.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "SAVDO.Core.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:02:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ciudadano.cs",
+              "DocumentMoniker": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Domain\\Entities\\Ciudadano.cs",
+              "RelativeDocumentMoniker": "SAVDO.Core.Domain\\Entities\\Ciudadano.cs",
+              "ToolTip": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Domain\\Entities\\Ciudadano.cs",
+              "RelativeToolTip": "SAVDO.Core.Domain\\Entities\\Ciudadano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:58:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CiudadanoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\Dtos\\CiudadanoDto\\CiudadanoDto.cs",
+              "RelativeDocumentMoniker": "SAVDO.Core.Application\\Dtos\\CiudadanoDto\\CiudadanoDto.cs",
+              "ToolTip": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\Dtos\\CiudadanoDto\\CiudadanoDto.cs",
+              "RelativeToolTip": "SAVDO.Core.Application\\Dtos\\CiudadanoDto\\CiudadanoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:57:55.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CiudadanoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\Mappings\\EntitiesAndDtos\\CiudadanoMappingProfile.cs",
+              "RelativeDocumentMoniker": "SAVDO.Core.Application\\Mappings\\EntitiesAndDtos\\CiudadanoMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Starlyn\\Desktop\\PROYECTO VENTAS\\SADVO\\SAVDO.Core.Application\\Mappings\\EntitiesAndDtos\\CiudadanoMappingProfile.cs",
+              "RelativeToolTip": "SAVDO.Core.Application\\Mappings\\EntitiesAndDtos\\CiudadanoMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:57:09.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

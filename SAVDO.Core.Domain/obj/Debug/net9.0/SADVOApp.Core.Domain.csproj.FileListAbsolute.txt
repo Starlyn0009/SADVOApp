@@ -1,0 +1,11 @@
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\bin\Debug\net9.0\SADVOApp.Core.Domain.deps.json
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\bin\Debug\net9.0\SADVOApp.Core.Domain.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\bin\Debug\net9.0\SADVOApp.Core.Domain.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.AssemblyInfo.cs
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\refint\SADVOApp.Core.Domain.dll
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\SADVOApp.Core.Domain.pdb
+C:\Users\Starlyn\Desktop\PROYECTO VENTAS\SADVO\SAVDO.Core.Domain\obj\Debug\net9.0\ref\SADVOApp.Core.Domain.dll
